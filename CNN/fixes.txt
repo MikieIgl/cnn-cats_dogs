@@ -1,5 +1,5 @@
 --//-- Решение проблемы: This probably means that Tcl wasn't installed properly. --\\--
 
     В cmd написать:
-    1) setx TCL_LIBRARY "C:\Users\mik3_\AppData\Local\Programs\Python\Python310\tcl\tcl8.6"
-    2) setx TK_LIBRARY "C:\Users\mik3_\AppData\Local\Programs\Python\Python310\tcl\tk8.6"
+    1) setx TCL_LIBRARY "C:\Users\**\AppData\Local\Programs\Python\Python310\tcl\tcl8.6"
+    2) setx TK_LIBRARY "C:\Users\**\AppData\Local\Programs\Python\Python310\tcl\tk8.6"
